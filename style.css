@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.scroll-section {
+    overflow: scroll;
+    max-width: 200px;
+}
+
+.offer_style {
+    background:#a6dcef;
+}
+
+footer p{
+margin-bottom: 0;
+height: 25px;
+}
